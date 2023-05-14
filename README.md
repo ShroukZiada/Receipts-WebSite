@@ -1,2 +1,2 @@
 # Receipts-WebSite
-  JavaScript Receipts WebSite using (API)
+https://shroukziada.github.io/Receipts-WebSite/
